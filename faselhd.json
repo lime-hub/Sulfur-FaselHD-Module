@@ -1,0 +1,8 @@
+{
+  "name": "FaselHD Module",
+  "id": "faselhd_module",
+  "version": "1.0",
+  "author": "Oussama",
+  "language": "ar",
+  "entrypoint": "faselhd.js"
+}
